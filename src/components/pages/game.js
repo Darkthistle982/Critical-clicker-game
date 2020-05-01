@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 import Card from "../pages/cards/cards";
 import images from "../../images.json";
-import { render } from "@testing-library/react";
+import "./game.css";
 
 class Game extends Component {
   state = {
     images,
-    message: "Click on of the pictures to begin!",
+    message: "Click on one of the pictures to begin!",
     score: 0,
     topScore: 0,
   };
