@@ -1,4 +1,5 @@
 import React from "react";
+import Game from "./pages/game";
 import "../components/navBar.css";
 
 function Navbar() {

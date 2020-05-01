@@ -1,0 +1,10 @@
+.jumbotron {
+    font-family: 'Cinzel', serif !important;
+    background-image: url("https://i.imgur.com/X1XqZ36.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 0px;
+    text-align: center;
+    color: white;
+}
