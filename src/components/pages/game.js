@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import Card from '../pages/cards/cards';
+
 
 class Game extends Component {
     state = {
