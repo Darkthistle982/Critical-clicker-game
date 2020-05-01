@@ -1,9 +1,24 @@
 import React from "react";
+import "../components/navBar.css";
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-dark bg-dark">
-      <span className="navbar-brand mb-0 h1">Critical Clicker</span>
+    <nav className="navbar navbar-dark navbar-expand-lg bg-dark">
+      <ul className="navbar-nav">
+        <li className="nav-item col-lg-4">
+          <span className="navbar-brand mb-0 mr-5 h1"><i class="fab fa-critical-role mr-3"></i>Critical Clicker</span>
+        </li>
+        <li className="nav-item col-lg-6">
+          <span className="navbar-brand mb-0 mr-5 ml-5 h1"><i class="fab fa-critical-role mr-3"></i>
+            Click an image to begin playing.
+          </span>
+        </li>
+        <li className="nav-item col-lg-4">
+          <span className="navbar-brand mb-0 ml-5 h1"><i class="fab fa-critical-role mr-3"></i>
+            Your Score: 
+          </span>
+        </li>
+      </ul>
     </nav>
   );
 }
