@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Reani",
+        "clicked": false,
+        "image": "https://i.imgur.com/N8bGxz7.png"
+    },
+    {
+        "id": 2,
+        "name": "Kiri",
+        "clicked": false,
+        "image": "https://i.imgur.com/fJV91X9.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Shakaste",
+        "clicked": false,
+        "image": "https://i.imgur.com/LVJhJrk.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Calliana",
+        "clicked": false,
+        "image": "https://i.imgur.com/rpgzGgh.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pumat Sol",
+        "clicked": false,
+        "image": "https://i.imgur.com/YsrjoU3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Fjord",
+        "clicked": false,
+        "image": "https://i.imgur.com/EgaTPTO.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cadeuceus",
+        "clicked": false,
+        "image": "https://i.imgur.com/OpKleDA.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Jester",
+        "clicked": false,
+        "image": "https://i.imgur.com/9UXUupX.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Nott",
+        "clicked": false,
+        "image": "https://i.imgur.com/CcI3iZN.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Yasha",
+        "clicked": false,
+        "image": "https://i.imgur.com/sdJmvpH.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Caleb",
+        "clicked": false,
+        "image": "https://i.imgur.com/pORN0iG.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Beauregard",
+        "clicked": false,
+        "image": "https://i.imgur.com/19W7pRP.jpg"
+    }
+]
