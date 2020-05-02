@@ -3,7 +3,7 @@ import "./card.css"
 
 const Card = (props) => (
   <div
-    className="allCards col-lg-4"
+    className="allCards col-xl-3 col-lg-3 col-md-4 col-sm-5 col-xs-6"
     key={props.id}
     onClick={() => props.handleClick(props.id, props.clicked)}
   >
