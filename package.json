@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Darkthitle982.github.io/Critical-clicker-game",
+  "homepage": "https://flamboyant-lumiere-3fe5d8.netlify.app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
