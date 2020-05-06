@@ -1,5 +1,4 @@
 import React, { Children } from "react";
-import Game from "./pages/game";
 import "../components/navBar.css";
 
 function Navbar() {
@@ -13,9 +12,6 @@ function Navbar() {
           <span className="navbar-brand mb-0 h1" id="clickToBegin"><i class="fab fa-critical-role mr-3"></i>
             Click an image to begin playing.
           </span>
-        </li>
-        <li className="nav-item" id="score">
-          <span className="navbar-brand mb-0 h1"><i class="fab fa-critical-role mr-3"></i>Score: {Game.state.score} | Top Score: </span>
         </li>
       </ul>
     </nav>
