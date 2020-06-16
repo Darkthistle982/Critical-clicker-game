@@ -6,6 +6,7 @@ A React based memory game using favorite Critical Role Characters.
 * Application Use
 * Tech Used
 * Details of App and Challenges
+* Screenshots of Application
 * Link to the Live project
 
 ### Application Use
@@ -28,5 +29,19 @@ This app is an exercise in learning to develop applications using React. The app
 The app is very simple, and exists in a single page format. It is set up with several Components and builds together in the main game.js app. When you click on any of the images, it tallies your score, updates the message, and waits for the next click. 
 
 The biggest challenges in this exercise wasn't the logic, as much as it was figuring out how React.js works and how to build it out. The concept of props and states are the main issues, and they are relatively difficult to pass about the app. It was especially hard for me to envision breaking apart such a small app. 
+
+### Screenshots of Application
+Main Page: 
+![Main Page](/src/images/mainPage.jpg)
+
+Game in Progress: 
+![Game in Progress](/src/images/gameInProgress.jpg)
+
+Wrong Guess: 
+![Wrong Guess](/src/images/wrongGuess.jpg)
+
+Success:
+![Success](/src/images/Success.jpg)
+
 
 #### Link to Live Project: https://flamboyant-lumiere-3fe5d8.netlify.app
